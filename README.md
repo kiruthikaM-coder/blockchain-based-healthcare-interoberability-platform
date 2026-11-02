@@ -1,2 +1,3 @@
 # blockchain-based-healthcare-interoberability-platform
-A blockchain-based healthcare interoperability platform that enables secure, patient-controlled exchange of FHIR-compliant health records across hospitals, clinics, labs, and insurers using smart contracts, consent management, and immutable audit trails.
+Medizen – Blockchain-Based Healthcare Data Interoperability Platform
+Medizen is a secure and decentralized healthcare platform designed to store, manage, and share patient medical records. It uses Ethereum blockchain, Solidity smart contracts, and IPFS technology to ensure data security, transparency, and privacy. The platform provides role-based access for patients, doctors, and administrators, along with QR code-based emergency medical record sharing for quick and secure access.
